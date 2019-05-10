@@ -5,4 +5,5 @@ RUN apt-get update && apt-get install -y \
     build-essential \
     bc \
     device-tree-compiler \
-    bison
+    bison \
+    flex
