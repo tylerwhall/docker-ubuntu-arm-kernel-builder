@@ -8,3 +8,4 @@ RUN apt-get update && apt-get install -y \
     bison \
     flex \
     libssl-dev \
+    libelf-dev \
