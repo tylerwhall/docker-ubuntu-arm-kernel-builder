@@ -9,3 +9,4 @@ RUN apt-get update && apt-get install -y \
     flex \
     libssl-dev \
     libelf-dev \
+    libgmp3-dev \
