@@ -10,3 +10,4 @@ RUN apt-get update && apt-get install -y \
     libssl-dev \
     libelf-dev \
     libgmp3-dev \
+    libmpc-dev \
